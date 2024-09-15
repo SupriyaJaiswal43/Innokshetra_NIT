@@ -1,0 +1,9 @@
+{
+    "accident_detected": true,
+    "location": {
+      "latitude": 25.3176,
+      "longitude": 82.9739
+    },
+    "confirm_accident": true
+  }
+  
